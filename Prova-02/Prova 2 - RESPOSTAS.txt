@@ -1,0 +1,16 @@
+1 - c;
+
+2 - a;
+
+3 - PP
+	1
+	4
+	3
+	2
+	5
+
+
+4 - tpilha novo (Cria um topo novo para pilha)
+    = (atribui o endereço de memoria criado)
+    sizeof(struct tno) = (reserva um espaço de memoria do tamanho de tno)
+    if(novo == NULL) = faz a verificação de a pilha esta apontando para NULL.	

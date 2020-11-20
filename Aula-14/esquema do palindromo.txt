@@ -1,0 +1,10 @@
+Socorram-me
+
+Pilha 1 = push() = Socorram-me
+Pilha 1 = pop();
+
+Pilha 2 = push() = emmarrocos
+
+Pilha 1 = push() = socorramme
+
+comparar Pilha1 == Pilha 2
